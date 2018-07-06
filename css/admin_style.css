@@ -1,0 +1,66 @@
+
+.section-tag form label b {font-size: 16px;}
+.section-tag .tags-lots {
+    width: 80%;
+    margin: 0px auto;
+    padding: 30px 0;
+}
+.inputs-d {
+    padding: 20px 0;
+}
+.inputs-d .insec {
+    width: 40%;
+    height: 40px;
+}
+.inputs-d .add_tag_btn {
+    width: 90px;
+    height: 40px;
+    border: 0px;
+    background-color: #0073aa;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+}
+.tags-listing span {
+    border: 1px solid #ddd;
+	padding: 6px 20px;
+	margin-right: 6px;
+	background-color: #ddd;
+	text-transform: capitalize;
+}
+.format {
+    text-align: center;
+    padding-top: 30px;
+}
+.tags-listing span .cross {
+    padding-left: 8px;
+    font-size: 16px;
+    text-decoration: none;
+    color: #d54e21;
+    font-weight: 900;
+}
+.hoc {
+    display: inline-block;
+    padding-right: 50px;
+    vertical-align: top;
+}
+.col-set-left li {
+    padding-bottom: 14px;
+    font-size: 15px;
+    font-weight: 500;
+}
+.hoc:last-child {
+    padding-right: 0px;
+}
+.save-box .add_tag_btn {
+    width: 90px;
+    height: 40px;
+    border: 0px;
+    background-color: #0073aa;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+}
+span.tag.selected_tag{
+background:green;
+}

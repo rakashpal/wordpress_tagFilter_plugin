@@ -4,8 +4,8 @@ Plugin Name: Divi Tag Search & Filter
 Plugin URI: 
 Description: 
 Version:1.0
-Author: eWeb A1 Professionals Organization
-Author URI: http://a1professionals.com/
+Author: Rakashpal Singh
+Author URI: https://rakashpal.herokuapp.com/
 License: 
 Text Domain: tagfilter
 */
